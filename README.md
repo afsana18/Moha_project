@@ -55,45 +55,53 @@ MOHA-Manual-API-Testing/
 │
 └── README.md
 ---
-##⚙️ Test Scenarios Covered
-🔹 Manual Testing
-✔️ Login / Logout functionality
-✔️ User management module
-✔️ Form validation testing
-✔️ UI/UX verification
-✔️ Role-based access testing
+## ⚙️ Test Scenarios Covered
+
+### 🔹 Manual Testing
+- ✔️ Login / Logout functionality  
+- ✔️ User management module  
+- ✔️ Form validation testing  
+- ✔️ UI/UX verification  
+- ✔️ Role-based access testing  
 
 ---
-##🔹 API Testing (Postman)
-✔️ GET requests validation
-✔️ POST request (data creation)
-✔️ PUT request (update data)
-✔️ DELETE request
-✔️ Status code verification
-✔️ Response body validation
-✔️ Assertion testing
+
+### 🔹 API Testing (Postman)
+- ✔️ GET requests validation  
+- ✔️ POST request (data creation)  
+- ✔️ PUT request (update data)  
+- ✔️ DELETE request  
+- ✔️ Status code verification  
+- ✔️ Response body validation  
+- ✔️ Assertion testing  
 
 ---
-##📊 Test Artifacts
-📄 Test Case Document (Excel)
-🐞 Bug Report Sheet
-📬 Postman Collection
-📊 Execution Summary Report
+
+## 📊 Test Artifacts
+
+- 📄 Test Case Document (Excel)  
+- 🐞 Bug Report Sheet  
+- 📬 Postman Collection  
+- 📊 Execution Summary Report  
 
 ---
-##▶️ How to Use This Project
-Open Postman
-Import the MOHA_Postman_Collection.json file
-Run API requests manually or using Collection Runner
-Execute manual test cases from Excel sheet
-Record bugs and results in bug report file
-Verify expected vs actual results
+
+## ▶️ How to Use This Project
+
+1. Open Postman  
+2. Import the `MOHA_Postman_Collection.json` file  
+3. Run API requests manually or using Collection Runner  
+4. Execute manual test cases from Excel sheet  
+5. Record bugs and results in bug report file  
+6. Verify expected vs actual results  
 
 ---
-##📌 Key Learning Outcomes
-Real-world manual testing experience
-API testing using Postman
-Writing structured test cases
-Bug reporting and tracking skills
-Understanding system workflows and validations
-End-to-end QA process execution
+
+## 📌 Key Learning Outcomes
+
+- Real-world manual testing experience  
+- API testing using Postman  
+- Writing structured test cases  
+- Bug reporting and tracking skills  
+- Understanding system workflows and validations  
+- End-to-end QA process execution  
