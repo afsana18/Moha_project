@@ -54,8 +54,8 @@ MOHA-Manual-API-Testing/
 │   └── Execution_Report.xlsx
 │
 └── README.md
-
-⚙️ Test Scenarios Covered
+---
+##⚙️ Test Scenarios Covered
 🔹 Manual Testing
 ✔️ Login / Logout functionality
 ✔️ User management module
@@ -63,8 +63,8 @@ MOHA-Manual-API-Testing/
 ✔️ UI/UX verification
 ✔️ Role-based access testing
 
-
-🔹 API Testing (Postman)
+---
+##🔹 API Testing (Postman)
 ✔️ GET requests validation
 ✔️ POST request (data creation)
 ✔️ PUT request (update data)
@@ -73,15 +73,15 @@ MOHA-Manual-API-Testing/
 ✔️ Response body validation
 ✔️ Assertion testing
 
-
-📊 Test Artifacts
+---
+##📊 Test Artifacts
 📄 Test Case Document (Excel)
 🐞 Bug Report Sheet
 📬 Postman Collection
 📊 Execution Summary Report
 
-
-▶️ How to Use This Project
+---
+##▶️ How to Use This Project
 Open Postman
 Import the MOHA_Postman_Collection.json file
 Run API requests manually or using Collection Runner
@@ -89,8 +89,8 @@ Execute manual test cases from Excel sheet
 Record bugs and results in bug report file
 Verify expected vs actual results
 
-
-📌 Key Learning Outcomes
+---
+##📌 Key Learning Outcomes
 Real-world manual testing experience
 API testing using Postman
 Writing structured test cases
